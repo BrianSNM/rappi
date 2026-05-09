@@ -80,7 +80,7 @@ st.markdown(
 st.markdown(
     """
     <div class="pira-header">
-        <h1>🛵 Pira – Rappi Insights</h1>
+        <h1>🛵 Rappi Insights</h1>
     </div>
     """,
     unsafe_allow_html=True,
