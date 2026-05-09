@@ -1,0 +1,151 @@
+pais,ciudad,metrica,valor
+México,CDMX,Pedidos diarios,8016
+México,CDMX,Ticket promedio,119.46
+México,CDMX,Tiempo entrega (min),34.1
+México,CDMX,Usuarios activos,24024
+México,CDMX,Conversión (%),7.54
+México,CDMX,NPS,57
+México,Guadalajara,Pedidos diarios,459
+México,Guadalajara,Ticket promedio,441.84
+México,Guadalajara,Tiempo entrega (min),47.9
+México,Guadalajara,Usuarios activos,18488
+México,Guadalajara,Conversión (%),1.59
+México,Guadalajara,NPS,26
+México,Monterrey,Pedidos diarios,8238
+México,Monterrey,Ticket promedio,388.15
+México,Monterrey,Tiempo entrega (min),60.1
+México,Monterrey,Usuarios activos,15581
+México,Monterrey,Conversión (%),7.87
+México,Monterrey,NPS,65
+México,Puebla,Pedidos diarios,3688
+México,Puebla,Ticket promedio,315.55
+México,Puebla,Tiempo entrega (min),46.0
+México,Puebla,Usuarios activos,44917
+México,Puebla,Conversión (%),9.43
+México,Puebla,NPS,37
+México,Mérida,Pedidos diarios,1691
+México,Mérida,Ticket promedio,414.26
+México,Mérida,Tiempo entrega (min),47.3
+México,Mérida,Usuarios activos,20746
+México,Mérida,Conversión (%),9.78
+México,Mérida,NPS,24
+Colombia,Bogotá,Pedidos diarios,6077
+Colombia,Bogotá,Ticket promedio,350.97
+Colombia,Bogotá,Tiempo entrega (min),19.5
+Colombia,Bogotá,Usuarios activos,19840
+Colombia,Bogotá,Conversión (%),4.93
+Colombia,Bogotá,NPS,73
+Colombia,Medellín,Pedidos diarios,2977
+Colombia,Medellín,Ticket promedio,154.29
+Colombia,Medellín,Tiempo entrega (min),54.3
+Colombia,Medellín,Usuarios activos,24476
+Colombia,Medellín,Conversión (%),7.07
+Colombia,Medellín,NPS,54
+Colombia,Cali,Pedidos diarios,2795
+Colombia,Cali,Ticket promedio,175.08
+Colombia,Cali,Tiempo entrega (min),56.2
+Colombia,Cali,Usuarios activos,32078
+Colombia,Cali,Conversión (%),11.66
+Colombia,Cali,NPS,57
+Colombia,Barranquilla,Pedidos diarios,5649
+Colombia,Barranquilla,Ticket promedio,377.57
+Colombia,Barranquilla,Tiempo entrega (min),38.4
+Colombia,Barranquilla,Usuarios activos,5434
+Colombia,Barranquilla,Conversión (%),2.98
+Colombia,Barranquilla,NPS,48
+Brasil,São Paulo,Pedidos diarios,6611
+Brasil,São Paulo,Ticket promedio,437.89
+Brasil,São Paulo,Tiempo entrega (min),55.2
+Brasil,São Paulo,Usuarios activos,24471
+Brasil,São Paulo,Conversión (%),2.45
+Brasil,São Paulo,NPS,70
+Brasil,Rio de Janeiro,Pedidos diarios,328
+Brasil,Rio de Janeiro,Ticket promedio,177.85
+Brasil,Rio de Janeiro,Tiempo entrega (min),21.2
+Brasil,Rio de Janeiro,Usuarios activos,24655
+Brasil,Rio de Janeiro,Conversión (%),8.56
+Brasil,Rio de Janeiro,NPS,53
+Brasil,Belo Horizonte,Pedidos diarios,6342
+Brasil,Belo Horizonte,Ticket promedio,384.29
+Brasil,Belo Horizonte,Tiempo entrega (min),62.0
+Brasil,Belo Horizonte,Usuarios activos,7600
+Brasil,Belo Horizonte,Conversión (%),8.59
+Brasil,Belo Horizonte,NPS,80
+Argentina,Buenos Aires,Pedidos diarios,510
+Argentina,Buenos Aires,Ticket promedio,309.23
+Argentina,Buenos Aires,Tiempo entrega (min),62.2
+Argentina,Buenos Aires,Usuarios activos,21996
+Argentina,Buenos Aires,Conversión (%),11.11
+Argentina,Buenos Aires,NPS,48
+Argentina,Córdoba,Pedidos diarios,1135
+Argentina,Córdoba,Ticket promedio,315.1
+Argentina,Córdoba,Tiempo entrega (min),38.2
+Argentina,Córdoba,Usuarios activos,46445
+Argentina,Córdoba,Conversión (%),4.67
+Argentina,Córdoba,NPS,72
+Argentina,Rosario,Pedidos diarios,2011
+Argentina,Rosario,Ticket promedio,131.72
+Argentina,Rosario,Tiempo entrega (min),62.3
+Argentina,Rosario,Usuarios activos,20446
+Argentina,Rosario,Conversión (%),11.96
+Argentina,Rosario,NPS,34
+Chile,Santiago,Pedidos diarios,1692
+Chile,Santiago,Ticket promedio,166.88
+Chile,Santiago,Tiempo entrega (min),41.9
+Chile,Santiago,Usuarios activos,25970
+Chile,Santiago,Conversión (%),6.26
+Chile,Santiago,NPS,73
+Chile,Valparaíso,Pedidos diarios,2631
+Chile,Valparaíso,Ticket promedio,407.6
+Chile,Valparaíso,Tiempo entrega (min),47.7
+Chile,Valparaíso,Usuarios activos,32569
+Chile,Valparaíso,Conversión (%),7.96
+Chile,Valparaíso,NPS,55
+Chile,Concepción,Pedidos diarios,636
+Chile,Concepción,Ticket promedio,335.4
+Chile,Concepción,Tiempo entrega (min),25.9
+Chile,Concepción,Usuarios activos,29643
+Chile,Concepción,Conversión (%),11.48
+Chile,Concepción,NPS,66
+Perú,Lima,Pedidos diarios,1727
+Perú,Lima,Ticket promedio,442.94
+Perú,Lima,Tiempo entrega (min),33.4
+Perú,Lima,Usuarios activos,42759
+Perú,Lima,Conversión (%),5.27
+Perú,Lima,NPS,70
+Perú,Arequipa,Pedidos diarios,4620
+Perú,Arequipa,Ticket promedio,150.23
+Perú,Arequipa,Tiempo entrega (min),21.1
+Perú,Arequipa,Usuarios activos,30300
+Perú,Arequipa,Conversión (%),2.46
+Perú,Arequipa,NPS,47
+Perú,Trujillo,Pedidos diarios,449
+Perú,Trujillo,Ticket promedio,98.71
+Perú,Trujillo,Tiempo entrega (min),31.7
+Perú,Trujillo,Usuarios activos,8752
+Perú,Trujillo,Conversión (%),9.76
+Perú,Trujillo,NPS,46
+Ecuador,Quito,Pedidos diarios,1224
+Ecuador,Quito,Ticket promedio,387.03
+Ecuador,Quito,Tiempo entrega (min),42.7
+Ecuador,Quito,Usuarios activos,38929
+Ecuador,Quito,Conversión (%),3.77
+Ecuador,Quito,NPS,49
+Ecuador,Guayaquil,Pedidos diarios,5483
+Ecuador,Guayaquil,Ticket promedio,366.52
+Ecuador,Guayaquil,Tiempo entrega (min),54.4
+Ecuador,Guayaquil,Usuarios activos,39558
+Ecuador,Guayaquil,Conversión (%),1.53
+Ecuador,Guayaquil,NPS,38
+Costa Rica,San José,Pedidos diarios,2229
+Costa Rica,San José,Ticket promedio,279.88
+Costa Rica,San José,Tiempo entrega (min),54.9
+Costa Rica,San José,Usuarios activos,7704
+Costa Rica,San José,Conversión (%),8.44
+Costa Rica,San José,NPS,23
+Uruguay,Montevideo,Pedidos diarios,2259
+Uruguay,Montevideo,Ticket promedio,85.5
+Uruguay,Montevideo,Tiempo entrega (min),54.5
+Uruguay,Montevideo,Usuarios activos,16093
+Uruguay,Montevideo,Conversión (%),7.68
+Uruguay,Montevideo,NPS,22

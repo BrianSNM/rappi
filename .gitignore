@@ -1,0 +1,33 @@
+# Entornos virtuales
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# API keys y secretos
+.env
+
+# Browser profiles (cache pesado de Chrome - 14GB en total)
+browser_profile/
+browser_profile_uber/
+browser_profile_didi/
+browser_profile_rappi/
+
+# Datos pesados / temporales
+data/raw/*
+data/screenshots/*
+data/cache/*
+
+# Lock files de LibreOffice
+.~lock.*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
