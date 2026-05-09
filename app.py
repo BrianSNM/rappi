@@ -1,5 +1,5 @@
 """
-Pira – Rappi Insights
+Rappi Insights
 Streamlit con 4 pestañas:
 1. Mapa geoespacial (Prueba 1)
 2. Análisis estadístico + IA (Prueba 1)
